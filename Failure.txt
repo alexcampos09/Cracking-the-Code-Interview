@@ -1,0 +1,1 @@
+2.3 How to insert a whole Node without head in Python
